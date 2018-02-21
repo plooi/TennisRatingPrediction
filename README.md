@@ -1,1 +1,5 @@
-# TennisRatingPrediction
+TennisRatingPrediction
+
+Adult competetive tennis is centered around this rating system called the NTRP rating system. The NTRP rating system is a rating system that gives each tennis player a rating from 1.0, which indicates an absolute beginner, to 7.0, which represents a professional tennis player who is one of the best in the world. Each year, every player is assigned a new NTRP rating that is calculated by an algorithm that uses the documented competitive matches that the player has played to calculate the new rating. 
+
+Every year, ratings for every tennis player are published publicly. The goal of this program, "TennisRatingPrediction," is to use this data to find trends in player skill improvement. When the .jar file is executed, the user will be presented with a window with one row of input elements, where the first five are text boxes, the sixth is a button, and the seventh input element is a text box. To operate this program, one must input into the first five text boxes the official ratings assigned to a player in the last five years. These must be inputted in chronological order (the first text box receives the earliest rating; the last of the first five text boxes receives the latest rating). Then, click the button, and the prediction for next year's rating will appear in the last text box. 
